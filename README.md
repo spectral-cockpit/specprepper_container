@@ -1,7 +1,7 @@
 # Overview
 
-Currently we test R package binaries that serve applications with microservice
-architecture.
+Currently we test R package binaries that can serve applications with 
+microservice architecture.
 
 # Credits
 
