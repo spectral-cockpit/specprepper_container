@@ -1,5 +1,8 @@
 # Overview
 
+Currently we test R package binaries that serve applications with microservice
+architecture.
+
 # Credits
 
 I thank David Neunzerling for the skeleton for this package, which was 
